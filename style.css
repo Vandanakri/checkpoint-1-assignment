@@ -46,11 +46,8 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-li{
-    margin-left: 220px;
-    font-size: 20px;
-    padding: 25px;
-}
+/*costume*/
+
 .link{
     background-color: rgb(4, 4, 88);
     width: 900px;
@@ -88,9 +85,6 @@ h6{
    outline: 5px solid #0d1430;
    box-shadow: 0 0 0 20px  #90ffa9;
    border-radius: 1px;
-   
-    
-
 }
 .round{
     text-align: center;
@@ -206,4 +200,13 @@ h5{
     color: rgb(11, 224, 11);
     padding-bottom: 30px;
     font-size: 20px;
+}
+.white-1{
+    color: white;
+    text-decoration: none;
+
+}
+.green-1{
+    color: green;
+    text-decoration: none;
 }
