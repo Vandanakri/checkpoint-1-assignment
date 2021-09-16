@@ -163,18 +163,15 @@ p{
    text-decoration: none;
    color: white;
 }
-.size{
-   margin-top: 70px;
-   
-}
 .abc{
     margin-left: 630px;
-    margin-top: -900px;
+    margin-top: -1100px;
    padding: 15px;
 }
 h3{
     margin-left: 280px;
     font-size: 25px;
+    padding-top: 20px;
 }
 .footer{
    margin-left: 280px;
@@ -188,8 +185,8 @@ h3{
 }
 h5{
     margin-left: 650px;
-    margin-top: -146px;
     font-size: 24px;
+    padding-top: 10px;
 }
 .last{
     margin-left: 650px;
@@ -209,4 +206,7 @@ h5{
 .green-1{
     color: green;
     text-decoration: none;
+}
+.img-1{
+    margin-top: -165px;
 }
